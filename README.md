@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kanukuntla Srujan</h1>
+<h3 align="center">CSE - Data Science Student</h3>
 
-<!--
-**Srujan1613/Srujan1613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 I'm currently pursuing **CSE - Data Science**
+- 💡 Actively exploring and participating in **Hackathons**
+- 🔥 Passionate about learning, building projects, and growing in tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Featured Projects
+- 🔹 **Online Petrol Booking System**  
+- 🔹 **Zignasa Hackathon 2K25 Project**
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [K Srujan](https://www.linkedin.com/in/k-srujan-122885292)  
+- **Email:** *srujan1613@gmail.com*
+
+---
+
+### ⭐ Profile Summary
+I'm a dedicated CSE-DS student exploring the world of technology through real-time projects and hackathons. I believe in learning by building and improving every day.
+
